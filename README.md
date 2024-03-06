@@ -33,8 +33,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/usamarana01/usamarana01/output/snake.svg" alt="Snake animation" />
 
 ###
