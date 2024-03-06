@@ -33,7 +33,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/usamarana01/usamarana01/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif?cid=ecf05e474ebs9qqo2js49c3e5casgekgrg7jasol1k65b1sv&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
