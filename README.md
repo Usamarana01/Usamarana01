@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Muhammad Usama and I'm working as a software developer at Lean Automation Pvt Ltd.</h2>
 
 ###
@@ -10,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -28,13 +27,19 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/usamarana01/count.svg?"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/usamarana01/usamarana01/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/muhammad-usama-0307aa1ba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="21" alt="linkedin logo"  />
   </a>
